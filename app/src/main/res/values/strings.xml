@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MATS</string>
+    <string name="first_name">First Name</string>
+    <string name="app_label">Search</string>
+    <string name="search_hint">Hint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
